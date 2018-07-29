@@ -1,0 +1,16 @@
+NAME,CODE,NAME,CODE,NAME,CODE,NAME,CODE
+Phyllite,FL,Breccia,BR,Laterite,LA,Weathered Acid Intrusive,AIS
+Graphite Phyllite,FG,Hematite Breccia,BRHM,Ocreous,OC,Basic Intrusive,BI
+Dolomitic Phyllite,FD,Itabirite Breccia,BRIB,Manganese Iron Ore,FEMN,Weathered Basic Intrusive,BIS
+Sericite Phyllite,FS,Talus Breccia,BRTL,Claystone,AGT,Metavolcanics,VU
+Ferruginous Phyllite,FLF,Quartzite Brecccia,BRQT,Argilla / Clay,AG,Soil,SL
+Schist,XI,Phyllite Breccia,BRFL,Bauxite,BX,Landfill,AT
+Graphite Schist,XG,Chert,CH,Rolled Rocks,RL,Tailings,RJ
+Talc Schist,TX,Dolomitic Itabirite,IDO,Rolled Hematite Blocks,RLHM,Dump,BAR
+Dolomite,DL,Amphibolitic Itabirite,IANF,Rolled Itabirite Rocks,RLIB,Ore Stockpile,PIP
+Quartzite,QT,Compact Amphibolite Itabirite,ICAN,Quartz Vein,VQ,Waste Stockpile,PIE
+Quartzite Moeda F.,QTM,Semi Compact Amphibolite Itabirite,ISCAN,Phyllonite,PHY,Reprocessed Stockpile,PIR
+Quartzite Cercadinho F.,QTC,Friable Amphibolite Itabirite,IFAN,Cataclasite,CAT,Not Sampled,NA
+Siltstone,SIT,Amphibolite,AF,Mylonite,ML,Not Recovered,SR
+Sandstone / Arenite,SAD,Limestone,LIM,Intrusive,INT,Internal Waste ,EST
+Conglomerate,CO,Canga,CG,Acid Intrusive,AI,Empty Space,VZ
